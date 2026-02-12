@@ -1,0 +1,6 @@
+timestamp,model,params,seed,cv_metric,test_accuracy,test_weighted_f1
+2026-01-29 11:38,GaussianNB Pipeline,default preprocessing and GaussianNB,42,NA,0.13658248992826963,0.07896890448851324
+2026-02-05 11:16,LinearSVC Pipeline,"C=0.1,max_iter=5000",42,0.5199,NA,NA
+2026-02-05 11:31,LinearSVC Pipeline,"C=1,max_iter=5000",42,0.5205,NA,NA
+2026-02-05 11:47,LinearSVC Pipeline,"C=10,max_iter=5000",42,0.5206,NA,NA
+2026-02-05 12:34,LinearSVC Pipeline,"C=10,max_iter=5000",42,0.5206,0.5752677606367299,0.5208434964907447
